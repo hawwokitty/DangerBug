@@ -1,0 +1,15 @@
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\bin\Debug\net8.0\DangerBug.exe
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\bin\Debug\net8.0\DangerBug.deps.json
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\bin\Debug\net8.0\DangerBug.runtimeconfig.json
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\bin\Debug\net8.0\DangerBug.dll
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\bin\Debug\net8.0\DangerBug.pdb
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\DangerBug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\DangerBug.AssemblyInfoInputs.cache
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\DangerBug.AssemblyInfo.cs
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\DangerBug.csproj.CoreCompileInputs.cache
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\DangerBug.sourcelink.json
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\DangerBug.dll
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\refint\DangerBug.dll
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\DangerBug.pdb
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\DangerBug.genruntimeconfig.cache
+C:\Users\hanne\OneDrive\Skrivebord\get_cSharp\get_cSharp\DangerBug\DangerBug\obj\Debug\net8.0\ref\DangerBug.dll
