@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DangerBug")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16c980090f9c640cdd172be0c511bb4313ae94b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42802f7eabc01b87e475ced03849e5b470979d73")]
 [assembly: System.Reflection.AssemblyProductAttribute("DangerBug")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DangerBug")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -29,6 +29,7 @@
         {
             string userInput = "";
             bool isBool = false;
+            Console.WriteLine(message);
             while (userInput.ToLower() != "true" && userInput.ToLower() != "false")
             {
                 userInput = "Skriv true/false".RequestString();

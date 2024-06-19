@@ -51,4 +51,11 @@ void CreateBug()
 {
     string name = "Hva slags bug er det?".RequestString();
     bool canBite = "Kan bug'en bite?".RequestBool();
+    var hasLegs = "har den bein?".RequestBool();
+    var movment = "hvordan beveger den seg?".RequestString();
+    var nuisance = "hva liker du ikke med den?".RequestString();
+    var benefits = "hva liker du med den?".RequestString();
+    ListOfBugs.Add(new Bug(name, canBite, hasLegs, movment, nuisance, benefits));
+    $"{name} ble nettopp lagt til".PrintToConsole();
+    Console.WriteLine();
 }
